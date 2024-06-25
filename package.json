@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
+
   },
   "eslintConfig": {
     "extends": [
@@ -40,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hswo0o.githurb.io/movie_app_2024"
+  "homepage": "https://hsw0o.github.io/movie_app_2024"
 }
